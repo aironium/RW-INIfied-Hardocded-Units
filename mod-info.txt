@@ -1,0 +1,5 @@
+[mod]
+title: INIfied Hardcoded Units and Structures
+description: An attempt to make a faithful recreation of hardcoded units and structures to their INI-based counterparts. -Airon
+tags: units
+minVersion: 1.15
